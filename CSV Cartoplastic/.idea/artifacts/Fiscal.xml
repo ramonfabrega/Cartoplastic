@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fiscal">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="Fiscal.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/other meta-infs/fiscal/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="CSV Cartoplastic" />
+    </root>
+  </artifact>
+</component>
